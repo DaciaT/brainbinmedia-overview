@@ -70,16 +70,24 @@ This project isn't just a demo — it's a live, deployed product built to serve 
 
 ---
 
+## Home Page
+
 ![Homepage](screenshots/HomePage.png)
 
 ---
+
+## Flash Cards Game
 
 ![FlashCards](screenshots/FlashCards.png)
 
 ---
 
+## Mobile View
+
 ![MobileView](screenshots/MobileView.png)
 
 ---
+
+## Contact Page
 
 ![Contact](screenshots/Contact.png)
