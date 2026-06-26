@@ -67,3 +67,19 @@ This project isn't just a demo — it's a live, deployed product built to serve 
 - **Deployment fluency:** Production-ready, not just "it works on localhost"
 - **User focus:** Built for a specific audience (families/kids) with intentional UX decisions throughout
 - **Modern workflow:** Comfortable using AI tooling to ship faster without sacrificing quality
+
+---
+
+![Homepage](screenshots/HomePage.png)
+
+---
+
+![FlashCards](screenshots/FlashCards.png)
+
+---
+
+![MobileView](screenshots/MobileView.png)
+
+---
+
+![Contact](screenshots/Contact.png)
